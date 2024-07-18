@@ -65,7 +65,7 @@ To run this analysis, you will need:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/DhananjayTalekar/insurance-cost-analysis.git
+   git clone https://github.com/DhananjayTalekar/Data_Analysis.git
    ```
 
 2. **Navigate to the Project Directory**
